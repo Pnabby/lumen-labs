@@ -1,0 +1,1 @@
+{"name":"lumen-labs","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node --experimental-sqlite scripts/dev.mjs","build":"node scripts/build.mjs","test":"node --experimental-sqlite --test scripts/site.test.mjs"},"engines":{"node":">=22.12"}}
